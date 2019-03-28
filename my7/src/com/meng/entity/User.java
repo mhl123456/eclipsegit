@@ -1,5 +1,5 @@
 package com.meng.entity;
-
+//用户类
 public class User {
 
 	private int age;
